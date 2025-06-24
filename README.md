@@ -6,5 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/gewalttat/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1954-replace-all-digits-with-characters](https://github.com/gewalttat/leetcode_solutions/tree/master/1954-replace-all-digits-with-characters) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/gewalttat/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/gewalttat/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
