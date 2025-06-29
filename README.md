@@ -16,4 +16,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/gewalttat/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gewalttat/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gewalttat/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gewalttat/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
