@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gewalttat/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gewalttat/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1954-replace-all-digits-with-characters](https://github.com/gewalttat/leetcode_solutions/tree/master/1954-replace-all-digits-with-characters) |
 ## Hash Table
@@ -28,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gewalttat/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gewalttat/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gewalttat/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
