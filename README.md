@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gewalttat/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0090-subsets-ii](https://github.com/gewalttat/leetcode_solutions/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gewalttat/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/gewalttat/leetcode_solutions/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/gewalttat/leetcode_solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
