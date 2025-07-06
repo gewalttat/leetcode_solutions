@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/gewalttat/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gewalttat/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gewalttat/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/gewalttat/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/gewalttat/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0424-longest-repeating-character-replacement](https://github.com/gewalttat/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1954-replace-all-digits-with-characters](https://github.com/gewalttat/leetcode_solutions/tree/master/1954-replace-all-digits-with-characters) |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gewalttat/leetcode_solutions/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/gewalttat/leetcode_solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
